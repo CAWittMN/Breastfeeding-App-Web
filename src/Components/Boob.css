@@ -1,0 +1,8 @@
+.boob {
+  border-radius: 50%;
+  border-bottom: 1px solid #000;
+  background-color: peachpuff;
+  position: fixed;
+  transition: all 0.5s;
+  z-index: 2;
+}

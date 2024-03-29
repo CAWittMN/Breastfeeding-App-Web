@@ -1,0 +1,13 @@
+.reset-boobs-btn {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #f00;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
